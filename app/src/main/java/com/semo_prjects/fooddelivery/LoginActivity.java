@@ -60,6 +60,7 @@ public class LoginActivity extends AppCompatActivity {
         mLoginProgress.getProgressDrawable().setColorFilter(0xFF9FAF00, PorterDuff.Mode.SRC_IN);
 
 
+        //tst
 
         //Activating the Login button
         mLoginButton.setOnClickListener(new View.OnClickListener() {
